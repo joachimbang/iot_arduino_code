@@ -54,7 +54,7 @@
     [ "ultrasonic1:GND", "led1:C", "black", [ "v57.6", "h-20.4", "v96" ] ],
     [ "esp:18", "ultrasonic1:ECHO", "green", [ "h28.8", "v-105.6", "h0", "v-19.2", "h-259.2" ] ],
     [ "esp:5", "ultrasonic1:TRIG", "green", [ "h19.2", "v-144", "h-259.2" ] ],
-    [ "ldr1:AO", "esp:34", "green", [ "h28.8", "v-39.1" ] ]
+    [ "esp:4", "ldr1:AO", "green", [ "h19.2", "v76.8", "h-153.6", "v9.6" ] ]
   ],
   "dependencies": {}
 }
